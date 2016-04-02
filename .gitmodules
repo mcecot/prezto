@@ -19,3 +19,12 @@
 [submodule "modules/autosuggestions/external"]
 	path = modules/autosuggestions/external
 	url = https://github.com/tarruda/zsh-autosuggestions
+[submodule "modules/solarized/external"]
+	path = modules/solarized/external
+	url = https://github.com/altercation/solarized
+[submodule "modules/powerline-fonts/external"]
+	path = modules/powerline-fonts/external
+	url = https://github.com/powerline/fonts.git
+[submodule "modules/osx-terminal/external"]
+	path = modules/osx-terminal/external
+	url = https://github.com/tomislav/osx-terminal.app-colors-solarized
